@@ -1,0 +1,8 @@
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore CSV files
+*.csv
+
+api_key.txt
